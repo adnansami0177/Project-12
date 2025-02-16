@@ -1,0 +1,19 @@
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: solid green 5px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.head{
+    margin-top: 90px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+
+.max{
+    text-decoration: none;
+}
